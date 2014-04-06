@@ -7,9 +7,9 @@ This is by no means comprehensive, and I'm just leaving this as a way for me to 
 
 ### Programs: ###
 
-1 Hello World - the program that starts it all. More often than not, this is really a test if I can get my environment setup.
+1. Hello World - the program that starts it all. More often than not, this is really a test if I can get my environment setup.
 
-1. 'Hello Shale' test - this teaches about user input.
+1. 'Hello $NAME' test - learn about input and variable assignment.
 
 1. 'Guess the number' game - this teaches variables, control flow, and the use of external libraries to generate random numbers.
 
